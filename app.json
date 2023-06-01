@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "ProductDivider",
+    "slug": "ProductDivider",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "80f93190-a058-4ef6-a82b-77b5de2f9847"
+      }
+    }
+  },
+  "name": "ProductDivider"
+}
